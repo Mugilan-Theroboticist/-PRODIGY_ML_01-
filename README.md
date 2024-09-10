@@ -1,8 +1,8 @@
 # House Price Prediction using Linear Regression
 
-## This repository contains the implementation of a Linear Regression model to predict house prices based on various features such as square footage, number of bedrooms, and bathrooms. The project demonstrates a basic regression task using machine learning techniques in Python.
+### This repository contains the implementation of a Linear Regression model to predict house prices based on various features such as square footage, number of bedrooms, and bathrooms. The project demonstrates a basic regression task using machine learning techniques in Python.
 # Project Overview
-## In this project, we predict the prices of houses based on their characteristics using a dataset provided by Kaggle's House Prices competition. The primary goal is to implement a simple regression model and evaluate its performance using various metrics.
+### In this project, we predict the prices of houses based on their characteristics using a dataset provided by Kaggle's House Prices competition. The primary goal is to implement a simple regression model and evaluate its performance using various metrics.
 
 # Key Features:
 '''
